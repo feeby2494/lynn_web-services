@@ -1,0 +1,28 @@
+{
+  "name": "lynn_web-services",
+  "version": "1.0.0",
+  "description": "Home page for our lovely customers and clients.",
+  "main": "app.js",
+  "scripts": {
+    "test": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/feeby2494/lynn_web-services.git"
+  },
+  "keywords": [
+    "node.js",
+    "web",
+    "development",
+    "computer",
+    "networking",
+    "css",
+    "bootstrap"
+  ],
+  "author": "Lynn Web Services",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/feeby2494/lynn_web-services/issues"
+  },
+  "homepage": "https://github.com/feeby2494/lynn_web-services#readme"
+}
